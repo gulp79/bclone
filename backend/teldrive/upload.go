@@ -13,7 +13,7 @@ import (
 	"sync"
 
 	"github.com/google/uuid"
-	"github.com/rclone/rclone/backend/teldrive/api"
+	"github.com/gulp79/bclone/backend/teldrive/api"
 	"github.com/rclone/rclone/fs/operations"
 	"github.com/rclone/rclone/lib/pool"
 	"github.com/rclone/rclone/lib/rest"
