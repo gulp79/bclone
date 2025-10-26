@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rclone/rclone/backend/alldebrid/api"
+	"github.com/gulp79/bclone/backend/alldebrid/api"
 	"github.com/rclone/rclone/fs"
 	"github.com/rclone/rclone/fs/config"
 	"github.com/rclone/rclone/fs/config/configmap"
