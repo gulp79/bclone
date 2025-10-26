@@ -3,7 +3,7 @@ package alldebrid_test
 import (
 	"testing"
 
-	"github.com/rclone/rclone/backend/alldebrid"
+	"github.com/gulp79/bclone/backend/alldebrid"
 	"github.com/rclone/rclone/fstest/fstests"
 )
 
