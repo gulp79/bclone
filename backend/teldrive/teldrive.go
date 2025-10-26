@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rclone/rclone/backend/teldrive/api"
+	"github.com/gulp79/bclone/backend/teldrive/api"
 	"github.com/rclone/rclone/fs"
 	"github.com/rclone/rclone/fs/config"
 	"github.com/rclone/rclone/fs/config/configmap"
