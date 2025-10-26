@@ -4,7 +4,7 @@ package terabox_test
 import (
 	"testing"
 
-	"github.com/rclone/rclone/backend/terabox"
+	"github.com/gulp79/bclone/backend/terabox"
 	"github.com/rclone/rclone/fstest"
 	"github.com/rclone/rclone/fstest/fstests"
 )
