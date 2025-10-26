@@ -249,5 +249,3 @@ require (
 	golang.org/x/mobile v0.0.0-20250808145247-395d808d53cd
 	golang.org/x/term v0.34.0
 )
-
-replace github.com/rclone/rclone => github.com/gulp79/bclone v1.73.4-bclone
