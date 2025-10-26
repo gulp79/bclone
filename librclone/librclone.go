@@ -34,7 +34,7 @@ import (
 
 	"github.com/rclone/rclone/librclone/librclone"
 
-	_ "github.com/rclone/rclone/backend/all"   // import all backends
+	_ "github.com/gulp79/bclone/backend/all"   // import all backends
 	_ "github.com/rclone/rclone/cmd/cmount"    // import cmount
 	_ "github.com/rclone/rclone/cmd/mount"     // import mount
 	_ "github.com/rclone/rclone/cmd/mount2"    // import mount2
