@@ -17,7 +17,7 @@ import (
 
 	libPath "path"
 
-	"github.com/rclone/rclone/backend/terabox/api"
+	"github.com/gulp79/bclone/backend/terabox/api"
 	"github.com/rclone/rclone/fs"
 	"github.com/rclone/rclone/lib/rest"
 )
